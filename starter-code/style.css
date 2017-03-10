@@ -59,6 +59,11 @@ a:hover {
 
 }
 
+img {
+	height: 200px;
+	width: 150px;
+}
+
 footer {
 	background-color: #808080;
 }/* This is a multi-line
